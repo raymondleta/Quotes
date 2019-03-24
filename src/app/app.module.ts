@@ -5,12 +5,14 @@ import {FormsModule} from '@angular/forms';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { LikeDislikeComponent } from './like-dislike/like-dislike.component';
+import { QuoteComponent } from './quote/quote.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
-    LikeDislikeComponent
+    LikeDislikeComponent,
+    QuoteComponent
   ],
   imports: [
     BrowserModule,
