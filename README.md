@@ -1,27 +1,26 @@
 # Quotes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+This webpage allows you to create your own quotes and rank already existing quotes version 1.0.0.
 
-## Development server
+## Contributors
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Raymond Gitonga
 
-## Code scaffolding
+## Description
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This website using angular components allows the user to rank by giving a like or a dislike quotes and also create their own individual quotes using form components and submit them using a submit class
 
-## Build
+## Setup Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+To access this project, you will need to access it from github then clone it. Then run 'git clone https://github.com/raymondleta/Quote' on your terminal
 
-## Running unit tests
+## Demo Website
+To test this website here is a live demo of the site https://raymondleta.github.io/Quote/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Technologies Used
 
-## Running end-to-end tests
+This website has been created using Angular 7. With the template being created using HTML and styling using CSS. With the functionality created using Typescript
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Support or questions
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+For any questions feel free to contact me through gitongaraymondd@gmail.com
