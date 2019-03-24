@@ -23,4 +23,4 @@ This website has been created using Angular 7. With the template being created u
 
 ## Support or questions
 
-For any questions feel free to contact me through raytosh95.com
+For any questions feel free to contact me through raytosh95@gmail.com
