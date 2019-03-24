@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { LikeDislikeComponent } from './like-dislike/like-dislike.component';
 import { QuoteComponent } from './quote/quote.component';
 import { QuoteDetailsComponent } from './quote-details/quote-details.component';
+import { QuoteFormComponent } from './quote-form/quote-form.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { QuoteDetailsComponent } from './quote-details/quote-details.component';
     HeaderComponent,
     LikeDislikeComponent,
     QuoteComponent,
-    QuoteDetailsComponent
+    QuoteDetailsComponent,
+    QuoteFormComponent
   ],
   imports: [
     BrowserModule,
