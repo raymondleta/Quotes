@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { LikeDislikeComponent } from './like-dislike/like-dislike.component';
 import { QuoteComponent } from './quote/quote.component';
+import { QuoteDetailsComponent } from './quote-details/quote-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     LikeDislikeComponent,
-    QuoteComponent
+    QuoteComponent,
+    QuoteDetailsComponent
   ],
   imports: [
     BrowserModule,
