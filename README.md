@@ -15,7 +15,7 @@ This website using angular components allows the user to rank by giving a like o
 To access this project, you will need to access it from github then clone it. Then run 'git clone https://github.com/raymondleta/Quote' on your terminal
 
 ## Demo Website
-To test this website here is a live demo of the site https://raymondleta.github.io/Quote/
+To test this website here is a live demo of the site https://raymondleta.github.io/quotes/
 
 ## Technologies Used
 
