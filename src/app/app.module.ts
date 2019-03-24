@@ -4,11 +4,13 @@ import {FormsModule} from '@angular/forms';
 
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
+import { LikeDislikeComponent } from './like-dislike/like-dislike.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent
+    HeaderComponent,
+    LikeDislikeComponent
   ],
   imports: [
     BrowserModule,
