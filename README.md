@@ -19,7 +19,7 @@ To test this website here is a live demo of the site https://raymondleta.github.
 
 ## Technologies Used
 
-This website has been created using Angular 7. With the template being created using HTML and styling using CSS. With the functionality created using Typescript
+This website has been created using Angular 7. With the template being created using HTML and styling using CSS and bootstrap. With the functionality created using Typescript
 
 ## Support or questions
 
